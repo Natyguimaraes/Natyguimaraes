@@ -4,8 +4,8 @@ Sou desenvolvedora apaixonada por tecnologia e inovação. Adoro explorar novas 
 
 ## 🚀 Projetos Principais
 
-- [Projeto A](https://github.com/natyguimaraes/projeto-a): Uma aplicação incrível que faz XYZ.
-- [Projeto B](https://github.com/natyguimaraes/projeto-b): Uma biblioteca útil para fazer ABC.
+- [Projeto A](https://github.com/natyguimaraes/projeto-a): Adicionar
+- [Projeto B](https://github.com/natyguimaraes/projeto-b): Adicionar
 
 ## 🌐 Conecte-se Comigo
 
